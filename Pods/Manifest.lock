@@ -1,0 +1,22 @@
+PODS:
+  - CalculatorCore (0.0.1)
+
+DEPENDENCIES:
+  - CalculatorCore (from `https://github.com/sodascourse/calculator.git`, branch `master`)
+
+EXTERNAL SOURCES:
+  CalculatorCore:
+    :branch: master
+    :git: https://github.com/sodascourse/calculator.git
+
+CHECKOUT OPTIONS:
+  CalculatorCore:
+    :commit: 72239e1623c713c639afba9f64fbf971e7b19912
+    :git: https://github.com/sodascourse/calculator.git
+
+SPEC CHECKSUMS:
+  CalculatorCore: d79db7bbd652d9514eb0d07c7bc13ee0b75cb660
+
+PODFILE CHECKSUM: 261d93b779479177216cc4b3626b6257b5101507
+
+COCOAPODS: 1.2.0

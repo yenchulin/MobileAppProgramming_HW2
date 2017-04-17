@@ -1,0 +1,6 @@
+framework module CalculatorCore {
+  umbrella header "CalculatorCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
